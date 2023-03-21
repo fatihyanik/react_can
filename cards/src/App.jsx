@@ -35,6 +35,24 @@ function App() {
 
           </div>
 
+          <div className='column'>
+            <Course
+              image={Csharp}
+              title="Csharp"
+              description=" Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam praesentium autem omnis doloribus sapiente voluptatibus culpa voluptates cupiditate nesciunt quos, eaque provident nulla magnam neque saepe aut hic aliquid ipsa."
+            />
+
+          </div>
+
+          <div className='column'>
+            <Course
+              image={KompleWeb}
+              title="KompleWeb"
+              description=" Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam praesentium autem omnis doloribus sapiente voluptatibus culpa voluptates cupiditate nesciunt quos, eaque provident nulla magnam neque saepe aut hic aliquid ipsa."
+            />
+
+          </div>
+
         </div>
 
       </div>
